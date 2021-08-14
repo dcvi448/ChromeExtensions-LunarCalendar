@@ -11,7 +11,7 @@ Lunar Calendar Chrome Extensions - Âm lịch cho người Việt trên Chrome, 
  * Cho biết Các ngày lễ của người Việt, cập nhật theo các ngày nghỉ lễ mới nhất 2021
 
 ## Hình minh họa
- ![Calendar](http://thanhduc93nguyen.github.io/imgs/screenshot.png)
+![minhoa](https://github.com/thanhduc93nguyen/ChromeExtensions-LunarCalendar/blob/main/img/screenshot.png)
 
 ## Nguồn tham khảo
  * ichuot
