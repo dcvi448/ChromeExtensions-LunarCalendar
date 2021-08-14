@@ -1,23 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
+  <meta charset="utf-8" http-equiv="Content-Security-Policy" content="default-src * self blob: data: gap:; style-src * self 'unsafe-inline' blob: data: gap:; script-src * 'self' 'unsafe-eval' 'unsafe-inline' blob: data: gap:; object-src * 'self' blob: data: gap:; img-src * self 'unsafe-inline' blob: data: gap:; connect-src self * 'unsafe-inline' blob: data: gap:; frame-src * self blob: data: gap:;">
   <title>Âm lịch</title>
   <link rel="stylesheet" href="css/lunar.css">
 </head>
 <body>
-
   <div id="amlich-calendar"></div>
-
-  <script src="js/jquery-3.6.0.min.js"></script>
-  <script src="js/jquery.lunar.min.js"></script>
-  <script type="text/javascript">
-  $(function() {
-    $('#amlich-calendar').amLich({
-      type: 'calendar',
-      tableWidth: '200px'
-    });
-  });
-  </script>
+  <script src="/js/jquery-3.6.0.min.js"></script>
+  <script src="/js/jquery.lunar.min.js"></script>
+  <script src="/js/background.js"></script>
 </body>
 </html>
