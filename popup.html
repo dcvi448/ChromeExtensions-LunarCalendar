@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Âm lịch</title>
+  <link rel="stylesheet" href="css/lunar.css">
+</head>
+<body>
+
+  <div id="amlich-calendar"></div>
+
+  <script src="js/jquery-3.6.0.min.js"></script>
+  <script src="js/jquery.lunar.min.js"></script>
+  <script type="text/javascript">
+  $(function() {
+    $('#amlich-calendar').amLich({
+      type: 'calendar',
+      tableWidth: '200px'
+    });
+  });
+  </script>
+</body>
+</html>
