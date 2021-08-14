@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Lunar Calendar",
+    "name": "Lunar Calendar - Âm lịch cho người Việt 2021",
     "version": "2021.08",
     "icons": {
       "16": "/img/icons/icon_16.png",
