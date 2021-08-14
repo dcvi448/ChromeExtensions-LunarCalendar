@@ -1,4 +1,4 @@
-Lunar Calendar Chrome Extensions - Âm lịch cho người Việt trên Chrome Extensions
+Lunar Calendar Chrome Extensions - Âm lịch cho người Việt trên Chrome, Cốc Cốc và Edge
 ======
 **Lunar Calendar Chrome Extensions** là chrome extension cung cấp thông tin cho người Việt bao gồm: Âm và Dương lịch hiện tại, tiết khí, giờ hoàng đạo, các ngày lễ,...
 
