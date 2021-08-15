@@ -1,6 +1,7 @@
 {
     "manifest_version": 3,
-    "name": "Lunar Calendar - Âm lịch cho người Việt 2021",
+    "name": "Lunar Calendar - Âm lịch cho người Việt",
+    "description": "Lunar Calendar Extensions là extension cung cấp thông tin cho người Việt bao gồm: Âm và Dương lịch hiện tại, tiết khí, giờ hoàng đạo, các ngày lễ",
     "version": "2021.08.15",
     "icons": {
       "16": "/img/icons/icon_16.png",
