@@ -9,7 +9,6 @@
       "48": "/img/icons/icon_48.png",
       "128": "/img/icons/icon_128.png"
     },
-    "permissions": ["activeTab","tabs"],
     "action": {
       "default_icon": {
         "16": "/img/icons/icon_16.png",
